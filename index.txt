@@ -1,2 +1,3 @@
 helloo
 remote masterdan gelen güncelleme
+remote masterdan gelen 2.satir
